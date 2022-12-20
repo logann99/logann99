@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ramadan</h1>
-<h3 align="center">A Flutter-VB.NET junior Developer</h3>
+<h3 align="center">A Flutter junior Developer</h3>
 
 <p align="center"> <a href="https://twitter.com/ahmedramadann99" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedramadann99?logo=twitter&style=for-the-badge" alt="ahmedramadann99" /></a> </p>
 
